@@ -1,0 +1,13 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="CameraController" preserve="all"/>
+<type fullname="Cells" preserve="all"/>
+<type fullname="GameOfLife" preserve="all"/>
+<type fullname="Board" preserve="all"/>
+<type fullname="CubeClick" preserve="all"/>
+<type fullname="UpdateTime" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.Analytics">
+<type fullname="UnityEngine.Analytics.AnalyticsTracker" preserve="all"/>
+</assembly>
+</linker>
